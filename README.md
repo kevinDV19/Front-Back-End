@@ -8,17 +8,17 @@
   
 <h4> Paypal: </h4>
   
-  <h5> Correo: sb-teprk22127392@personal.example.com </h5>
-   <h5> Contraseña: SX#3H<h6 </h5>
-     <h5> Numero de tarjeta: 4037 0792 3086 2735 </h5>
-      <h5> Fecha de expiración: 11/27 </h5>
-        <h5> CVV: random </h5>
+<h4> Correo: sb-teprk22127392@personal.example.com </h4>
+<h4> Contraseña: SX#3H<h6 </h4>
+<h4> Numero de tarjeta: 4037 0792 3086 2735 </h4>
+<h4> Fecha de expiración: 11/27 </h4>
+<h4> CVV: random </h4>
      
-<h4> Paypal: </h4>
-     
-     <h5> Numero de tarjeta: 4075 5957 1648 3764 </h5>
-      <h5> Fecha de expiración: 11/25 </h5>
-        <h5> CVV: 123 </h5>
+<h4> Mercado Pago: </h4>
+
+<h4> Numero de tarjeta: 4075 5957 1648 3764 </h4>
+<h5> Fecha de expiración: 11/25 </h4>
+<h5> CVV: 123 </h4>
      
   
 
