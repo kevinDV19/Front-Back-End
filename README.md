@@ -6,7 +6,7 @@
 
 <h3> CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: <h3>
   
-<h4> Paypal: </h4>
+<h3> Paypal: </h3>
   
 <h4> Correo: sb-teprk22127392@personal.example.com </h4>
 <h4> Contraseña: SX#3H<h6 </h4>
@@ -14,7 +14,7 @@
 <h4> Fecha de expiración: 11/27 </h4>
 <h4> CVV: random </h4>
      
-<h4> Mercado Pago: </h4>
+<h3> Mercado Pago: </h3>
 
 <h4> Numero de tarjeta: 4075 5957 1648 3764 </h4>
 <h5> Fecha de expiración: 11/25 </h4>
