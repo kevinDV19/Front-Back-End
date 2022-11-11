@@ -1,10 +1,10 @@
 # Front-Back-End: PHP, BOOTSTRAP, MYSQL
 
-<h2>E-COMMERCE WEB-SITE: </h2>
+# E-COMMERCE WEB-SITE: 
 
 <h2> https://tiendaonlineppi2022b.000webhostapp.com/index.php </h2>
 
-<h2> CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: <h2>
+# CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: 
   
 <h2> Paypal: </h2>
   
